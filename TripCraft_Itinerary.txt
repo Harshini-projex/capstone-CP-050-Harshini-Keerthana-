@@ -1,0 +1,24 @@
+TRIPCRAFT - ITINERARY & BUDGET PLANNER
+Trip Name: AGHK
+Destination: Manali
+Dates: 2026-11-14 to 2026-11-18
+Budget: Rs. 4,000.00
+Members: [ARU, GOU, HR, KEE]
+
+DATE         | TIME          | ACTIVITY                  | PLANNED COST   | ACTUAL COST    | PAID BY       
+--------------+---------------+---------------------------+----------------+----------------+---------------
+2026-11-14   | -             | No activities planned     | -              | -              | -             
+2026-11-15   | 12:00 PM-02:00 PM | RUNN                      | Rs. 400.00     | Rs. 3,000.00   | KEE           
+2026-11-16   | -             | No activities planned     | -              | -              | -             
+2026-11-17   | -             | No activities planned     | -              | -              | -             
+2026-11-18   | -             | No activities planned     | -              | -              | -             
+
+Total planned cost: Rs. 400.00
+Total actual spending: Rs. 3,000.00
+Remaining budget: Rs. 1,000.00
+
+PER-PERSON CONTRIBUTION SPLIT
+ARU | Paid: Rs. 0.00 | Equal share: Rs. 750.00 | Net balance: Rs. -750.00
+GOU | Paid: Rs. 0.00 | Equal share: Rs. 750.00 | Net balance: Rs. -750.00
+HR | Paid: Rs. 0.00 | Equal share: Rs. 750.00 | Net balance: Rs. -750.00
+KEE | Paid: Rs. 3,000.00 | Equal share: Rs. 750.00 | Net balance: Rs. 2,250.00
